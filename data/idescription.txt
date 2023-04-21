@@ -1,0 +1,28 @@
+-
+Restores 50%/HP.
+Restores low amount of %/HP.
+Characters bounce off it, moving it slightly.
+Acts like a trap, explodes on contact.
+"Kicked", deals damage to opponents.
+Throw it, jump on it or attack it to put it in motion.
+A shell with active homing guidance.
+Buries opponents in ground.
+Contains various items, although it might also explode.
+Changes you into metal form for a limited period.
+Increases your size temporarily.
+Decreases your size temporarily.
+Makes you invincible.
+Contains larger amount of items.
+Smash attack is capable of OH-KOing people.
+Shoot green laser bullets at opponents.
+Lil' bit of hammering
+Very quick weapon.
+Restores 100%/HP.
+Releases random Pokemon to aid you in battle.
+Slash people with a beam of energy.
+Restores 20%/HP.
+Releases 20%/HP restoring honeycombs.
+Capable of shooting stars.
+Break it to obtain a shield which will protect you.
+Burn enemies.
+Gives you a bonus stock/point/500 coins.
